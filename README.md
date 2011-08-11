@@ -1,4 +1,4 @@
-As the project title suggests, this is my first project in Scala. The idea here is to create a fairy basic project to aid learning the language.
+As the project title suggests, this is my first project in Scala. The idea here is to create a fairly basic project to aid learning the language.
 
 The project uses scalatest for BDD style testing and sbt for running those tests and packaging up the project into an executable jar file.
 
